@@ -3,8 +3,8 @@ package ui
 import (
 	"testing"
 
-	"github.com/will/ghprs/internal/ui/views"
-	"github.com/will/ghprs/pkg/config"
+	"github.com/will-wright-eng/gh-nav/internal/ui/views"
+	"github.com/will-wright-eng/gh-nav/pkg/config"
 )
 
 func TestNewApp(t *testing.T) {

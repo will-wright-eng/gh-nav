@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/will/ghprs/pkg/config"
+	"github.com/will-wright-eng/gh-nav/pkg/config"
 )
 
 func TestNewClient(t *testing.T) {

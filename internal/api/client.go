@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/google/go-github/v58/github"
-	"github.com/will/ghprs/pkg/config"
+	"github.com/will-wright-eng/gh-nav/pkg/config"
 )
 
 // Client wraps the GitHub API client

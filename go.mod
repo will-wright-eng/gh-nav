@@ -1,4 +1,4 @@
-module github.com/will/ghprs
+module github.com/will-wright-eng/gh-nav
 
 go 1.21
 

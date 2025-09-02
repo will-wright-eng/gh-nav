@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/will/ghprs/internal/api"
-	"github.com/will/ghprs/pkg/config"
+	"github.com/will-wright-eng/gh-nav/internal/api"
+	"github.com/will-wright-eng/gh-nav/pkg/config"
 )
 
 func main() {

@@ -6,7 +6,7 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/will/ghprs/internal/constants"
+	"github.com/will-wright-eng/gh-nav/internal/constants"
 )
 
 // RepoListModel represents the repository selection view

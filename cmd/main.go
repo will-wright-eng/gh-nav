@@ -6,8 +6,8 @@ import (
 	"os"
 
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/will/ghprs/internal/ui"
-	"github.com/will/ghprs/pkg/config"
+	"github.com/will-wright-eng/gh-nav/internal/ui"
+	"github.com/will-wright-eng/gh-nav/pkg/config"
 )
 
 func main() {

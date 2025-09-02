@@ -7,12 +7,12 @@ import (
 	"time"
 
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/will/ghprs/internal/api"
-	"github.com/will/ghprs/internal/constants"
-	"github.com/will/ghprs/internal/models"
-	"github.com/will/ghprs/internal/ui/theme"
-	"github.com/will/ghprs/internal/ui/views"
-	"github.com/will/ghprs/pkg/config"
+	"github.com/will-wright-eng/gh-nav/internal/api"
+	"github.com/will-wright-eng/gh-nav/internal/constants"
+	"github.com/will-wright-eng/gh-nav/internal/models"
+	"github.com/will-wright-eng/gh-nav/internal/ui/theme"
+	"github.com/will-wright-eng/gh-nav/internal/ui/views"
+	"github.com/will-wright-eng/gh-nav/pkg/config"
 )
 
 // Message types for the UI
